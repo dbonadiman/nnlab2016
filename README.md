@@ -2,7 +2,8 @@
 
 # Installation
 
-requisite
+Prerequisites:
+
 - python 2.7+
 - pip
 
