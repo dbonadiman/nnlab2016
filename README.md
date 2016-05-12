@@ -5,7 +5,7 @@
 Prerequisites:
 
 - python 2.7+
-- pip
+- pip (If you dont have it installed; follow [this  guide](https://pip.pypa.io/en/stable/installing/) )
 
 Install Theano:
 
